@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Almurr 👋</h1>
+<h1 align="center">Hi, I'm Alnur 👋</h1>
 
 <p align="center">
   Frontend Developer passionate about crafting animated, fast, and interactive UIs. <br />
