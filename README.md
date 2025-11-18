@@ -1,6 +1,6 @@
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/alnur-kengesbay-4929892b1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/alnur-kengesbay)
 [![Email](https://img.shields.io/badge/email-black?style=flat&logo=gmail&logoColor=white)](alnurkenesbay@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/alnurch)
 
